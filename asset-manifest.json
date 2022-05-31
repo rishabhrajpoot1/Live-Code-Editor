@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Live-Code-Editor/static/css/main.12ec0122.chunk.css",
+    "main.js": "/Live-Code-Editor/static/js/main.bd885477.chunk.js",
+    "main.js.map": "/Live-Code-Editor/static/js/main.bd885477.chunk.js.map",
+    "runtime-main.js": "/Live-Code-Editor/static/js/runtime-main.8a12f6f2.js",
+    "runtime-main.js.map": "/Live-Code-Editor/static/js/runtime-main.8a12f6f2.js.map",
+    "static/css/2.53e1d658.chunk.css": "/Live-Code-Editor/static/css/2.53e1d658.chunk.css",
+    "static/js/2.8c50fb75.chunk.js": "/Live-Code-Editor/static/js/2.8c50fb75.chunk.js",
+    "static/js/2.8c50fb75.chunk.js.map": "/Live-Code-Editor/static/js/2.8c50fb75.chunk.js.map",
+    "index.html": "/Live-Code-Editor/index.html",
+    "static/css/2.53e1d658.chunk.css.map": "/Live-Code-Editor/static/css/2.53e1d658.chunk.css.map",
+    "static/css/main.12ec0122.chunk.css.map": "/Live-Code-Editor/static/css/main.12ec0122.chunk.css.map",
+    "static/js/2.8c50fb75.chunk.js.LICENSE.txt": "/Live-Code-Editor/static/js/2.8c50fb75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a12f6f2.js",
+    "static/css/2.53e1d658.chunk.css",
+    "static/js/2.8c50fb75.chunk.js",
+    "static/css/main.12ec0122.chunk.css",
+    "static/js/main.bd885477.chunk.js"
+  ]
+}
